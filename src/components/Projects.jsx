@@ -7,19 +7,19 @@ const projects = [
     title: "Password Manager App",
     tech: "React.js, Node.js, MongoDB, Tailwind CSS, Express.js",
     img: "1.png",
-    github: "#",
+    github: "https://github.com/Arafat-Rahman-603/Password-Manager",
   },
   {
     title: "E-commerce Store",
     tech: "React.js, Redux, Redux-toolkit, Bootstrap CSS",
     img: "3.png",
-    github: "#",
+    github: "https://github.com/Arafat-Rahman-603/E-Shop-with-backend",
   },
   {
     title: "Social Media ",
     tech: "React.js, Tailwind CSS",
     img: "2.png",
-    github: "#",
+    github: "https://github.com/Arafat-Rahman-603/social-media-by-react",
   },
 ];
 
